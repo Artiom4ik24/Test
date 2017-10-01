@@ -4,4 +4,5 @@ Git is cool :)
 * zmiana 1
 * zmiana 2
 * zmiana 3
-## HAHAHAHAHAHAHAHAHAHAHAHAHA
+## HAHAHAHAHAHAHAH 
+## TOP SECRET! FOR DEVELOPERS ONLY!
